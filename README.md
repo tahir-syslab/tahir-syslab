@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=styleofglobal" alt="styleofglobal" /></a> </p>
 
-- 🔭 I’m currently working on [Enterprise API](https://github.com/tahir-syslab)
+- 🔭 I’m currently working on [Enterprise APIs](https://github.com/tahir-syslab)
 
 - 🌱 I’m currently learning **NODE.JS**
 
-- 👯 I’m looking to collaborate on [CEM SYSTENS API](https://github.com/syslabtechnologies/CEM)
+- 👯 I’m looking to collaborate on [CEM SYSTEMS API](https://github.com/syslabtechnologies/CEM)
 
 - 👨‍💻 All of my projects are available at [http://www.styleofglobal.com](http://www.styleofglobal.com)
 
